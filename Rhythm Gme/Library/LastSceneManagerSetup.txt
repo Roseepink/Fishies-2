@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Rhythm Game Tutorial/Scenes/Menu.unity
+- path: Assets/Rhythm Game Tutorial/Scenes/Start 2.unity
   isLoaded: 1
   isActive: 1
